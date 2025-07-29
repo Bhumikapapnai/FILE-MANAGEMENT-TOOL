@@ -5,3 +5,5 @@ INTERN ID:CT04DH1024
 DOMAIN:C++ PROGRAMMING
 DURATION:4 WEEKS
 MENTOR:NEELA SANTOSH
+OUTPUT
+<img width="1470" height="956" alt="Image" src="https://github.com/user-attachments/assets/0b840dbd-7b53-44e9-8401-6bda55020882" />
